@@ -1,1 +1,4 @@
-# plex-htpc-machine
+# Plex HTPC Machine
+
+Home Theatre PC using Plex.
+
